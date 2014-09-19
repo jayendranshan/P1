@@ -82,7 +82,7 @@
         </table>
 
         <div class="alert alert-info" role="alert">
-            <strong>In 2+ sentences describe who you are and what you do?</strong><br /> This alert needs your attention, but it's not super important.
+            <strong>In 2+ sentences describe who you are and what you do?</strong><br />
             I am Jayendran shanmugam and i live in Framingham, MA. I am working as senior software engineer in EdenredUSA and
             I have bachelor degree in computer science engineering from Anna university, Chennai, India. <br /><br />
 
