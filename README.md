@@ -5,6 +5,9 @@
 ## Live URL
 <http://P1.jayendran.me>
 
+## Git hub URL:
+https://github.com/jayendranshan/P1
+
 ## Description
 This project contains a simple php file about me. This project's version control is GIT and repository is created in GITHUB.com
 and this is hosted in Digital ocean.
