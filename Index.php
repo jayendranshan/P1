@@ -43,7 +43,7 @@
                 <td>
                     <div style="width:1000px">
                         <div style="float:left;">
-                            <img class="img-rounded" src="/Images/PA260027.JPG" width="600" height="365" alt="Jayendran shanmugam">
+                            <img class="img-rounded" src="PA260027.JPG" width="600" height="365" alt="Jayendran shanmugam">
                         </div>
 
                         <div class="panel panel-info " style="width:380px;height:365px;float:right">
